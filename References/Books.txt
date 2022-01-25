@@ -1,0 +1,9 @@
+http://www.cse.iitm.ac.in/course_details.php?arg=MTM0
+
+Text Books
+C.M.Bishop, Pattern Recognition and Machine Learning, Springer, 2006
+R.O.Duda, P.E.Hart and D.G.Stork, Pattern Classification, John Wiley, 2001
+Reference Books
+S. Theodoridis and K. Koutroumbas, Pattern Recognition, Academic Press, 2009
+E. Alpaydin, Introduction to Machine Learning, Prentice-Hall of India, 2010
+G. James, D. Witten, T. Hastie and R. Tibshirani, Introduction to Statistical Learning, Springer, 2013.

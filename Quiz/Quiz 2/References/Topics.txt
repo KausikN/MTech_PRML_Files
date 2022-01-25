@@ -1,0 +1,7 @@
+ANN - Backpropogation, Sigmoid, Tanh
+Decision Tree
+Bagging - Bootstrap Sampling, Random Forest
+Boosting - Boosting by Majority, AdaBoost, XGBoost (only its features)
+KMeans
+EM Algorithm
+Gaussian Mixture Model

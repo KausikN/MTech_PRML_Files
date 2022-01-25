@@ -1,0 +1,122 @@
+\documentclass[solution,addpoints,12pt]{exam}
+\printanswers
+\usepackage{amsmath,amssymb,graphicx}
+\usepackage{centernot}
+\usepackage{hyperref}
+\newcommand{\RP}{\ensuremath{\mathsf{RP}}}
+\newcommand{\expect}[1]{\ensuremath{\mathbb{E}[#1]}}
+\newcommand{\dx}{\mathrm{d}x}
+\newcommand{\real}{\mathbb{R}}
+\usepackage{subcaption}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+%\documentclass[addpoints,11pt,a4paper]{exam}
+\renewcommand{\rmdefault}{ppl} % rm
+\linespread{1.05}        % Palatino needs more leading
+\usepackage[scaled]{helvet} % ss
+\usepackage{courier} % tt
+\usepackage{eulervm} % a better implementation of the euler package (not in gwTeX)
+\normalfont
+\usepackage{caption}
+\usepackage[T1]{fontenc}
+\usepackage{mathrsfs}
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage{ulem}
+\usepackage{paralist}
+\usepackage{amsmath}
+\usepackage{psfrag}
+\usepackage{fullpage}
+\usepackage{fancybox}
+\usepackage{ifthen}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{listings}             % Include the listings-package
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+
+\lstset{language=Python}
+\usepackage{marvosym}
+\usepackage[export]{adjustbox}
+\extrawidth{1in}
+\usepackage{multicol}
+\setlength{\columnsep}{.001cm}
+\newcommand{\twopartdef}[4]
+{
+	\left\{
+		\begin{array}{ll}
+			#1 & \mbox{if } #2 \\
+			#3 & \mbox{if } #4
+		\end{array}
+	\right.
+}
+\newcommand{\G}{\mathcal{G}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\M}{\mathcal{M}}
+
+\begin{document}
+
+\hrule
+\vspace{3mm}
+\noindent 
+{\sf IITM-CS5691 : Pattern Recognition and Machine Learning  \hfill Release Date: 22 Oct, 2021}
+\\
+\noindent 
+{\sf New Method Writeup \hfill Due Date: 10 Nov, 2021}
+%{\sf ~\hfill }
+\vspace{3mm}
+\hrule
+\vspace{3mm}
+\noindent{{\sf Roll No:} 17011890 \hfill  {\sf Name: NewMethodDC}}% put your ROLL NO AND NAME HERE
+\\
+\hrule
+{\small
+\begin{itemize}
+\item Dear Student, You may have tried different methods for predicting each of the clinical descriptors in the data contest. Submit a write-up of the methods chosen for the data contest in the template provided below.  {\bf You will have to add the details  in your own words and submit it as a team in gradescope}.
+\item We will run plagiarism checks on codes/write-up, and any detected plagiarism in writing/code will be strictly penalized. 
+\end{itemize}
+}
+\hrule
+
+\begin{questions} 
+\question[][Name of the Method chosen for each descriptor, and its Paradigm: paradigm could be linear/non-linear models, etc.)]: 
+\begin{solution}
+
+\end{solution}
+
+\question[][Brief description on the dataset: could show graphs illustrating data distribution or brief any additional analysis/data augmentation/data exploration performed]
+\begin{solution}
+
+\end{solution}
+
+\question[][Brief introduction/motivation: Describe briefly the reason behind choosing a specific method for predicting each of the descriptors (could show plots or tables summarizing the scores of training different model)]
+\begin{solution}
+
+\end{solution}
+
+
+\question[][As the data comes from a clinical setting, model interpretation is also an important task along with prediction. Describe briefly your preferred choice of methods if you are asked to determine the significant genes behind the regulation of the endpoints or restrict the number of features/genes.]:
+\begin{solution}
+
+\end{solution}
+
+
+
+\question[][Share your thoughts on each of the endpoints: whether easy/difficult to predict]:
+\begin{solution}
+
+\end{solution}
+
+\question[][Add any additional information: like challenges faced or some details that would help us to better understand the strategies that you have utilized for model development]:
+\begin{solution}
+
+\end{solution}
+
+
+\end{questions}
+\end{document}

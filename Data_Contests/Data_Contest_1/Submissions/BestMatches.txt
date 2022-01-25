@@ -1,0 +1,17 @@
+BEST MATCHES
+ADABOOST/
+Submissions/AdaBoost/submission_AdaBoost_TNorm_ExtraTree_200Est_1MD_0.1LR_Seed3.csv 4
+Submissions/AdaBoost/submission_AdaBoost_RandomForest(5,0)_TNorm_200Est_1MD_0.2LR_Seed3.csv 10
+Submissions/AdaBoost/submission_AdaBoost_TNorm_ExtraTree_200Est_1MD_0.1LR_Seed3.csv 7
+Submissions/AdaBoost/submission_AdaBoost_TNorm_ExtraTree_200Est_1MD_0.1LR_Seed3.csv 0
+Submissions/AdaBoost/submission_v30.csv 5
+Submissions/AdaBoost/submission_AdaBoost_StandardScale_30Est_1MD_0.25LR_Seed0.csv 44
+
+COMBINED/
+BEST MATCHES
+Submissions/Combined/submission_1_GB_23456_AB.csv 17
+Submissions/Combined/submission_234_RFAB_156_AB.csv 10
+Submissions/Combined/submission_234_RFAB5_156_AB.csv 7
+Submissions/Combined/submission_234_RFAB_156_AB.csv 0
+Submissions/Combined/submission_2_LR_13456_AB.csv 5
+Submissions/Combined/submission_SScale_1234_LR_1_56_AB_0.25_30.csv 44
