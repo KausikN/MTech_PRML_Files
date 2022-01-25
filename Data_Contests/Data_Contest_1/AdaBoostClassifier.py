@@ -6,7 +6,6 @@ AdaBoost Classifier
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-pd.DataFrame()
 from scipy.sparse.construct import rand
 from tqdm import tqdm
 
