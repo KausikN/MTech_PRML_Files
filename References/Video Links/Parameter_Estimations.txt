@@ -1,8 +1,0 @@
-Maximum likelihood estimate:
-https://www.youtube.com/watch?v=ugeG5DuZ3gc&feature=youtu.be
-
-Priors & MAP estimate:
-https://www.youtube.com/watch?v=qpGo87YV1R0&feature=youtu.be
-
-Bayesian parameter estimation:
-https://www.youtube.com/watch?v=5RAJL_YPPQU&feature=youtu.be

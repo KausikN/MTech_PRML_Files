@@ -1,5 +1,0 @@
-All Slides:
-https://courses.iitm.ac.in/mod/page/view.php?id=1502
-
-SVM Slides:
-https://drive.google.com/file/d/1o-dI2PXiXNZ45yG15JbCVda9AtudwZZH/view

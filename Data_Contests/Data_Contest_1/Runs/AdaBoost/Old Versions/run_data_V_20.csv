@@ -1,2 +1,0 @@
-id,colsample_bytree,learning_rate,max_depth,alpha,n_estimators,seed,total_train_error_1296,total_test_error_324,train_error_CO_1,train_error_CO_2,train_error_CO_3,train_error_CO_4,train_error_CO_5,train_error_CO_6,test_error_CO_1,test_error_CO_2,test_error_CO_3,test_error_CO_4,test_error_CO_5,test_error_CO_6
-0.0,0.3,0.05,1.0,10.0,200.0,3.0,0.0007716049382716049,0.2962962962962963,0.0,0.0,0.0,0.0,0.0,0.003676470588235294,0.38461538461538464,0.2692307692307692,0.4264705882352941,0.20588235294117646,0.10294117647058823,0.4264705882352941

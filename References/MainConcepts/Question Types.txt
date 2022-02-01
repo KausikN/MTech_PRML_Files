@@ -1,5 +1,0 @@
-3 - Bayes Decision
-Loss Matrix - Tutorial 2, Q7
-
-Linear Regression
-Tutorial 2, Q12, 24/33, Q13, 26/33
